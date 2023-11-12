@@ -12,7 +12,6 @@ h1 {
 
 .recipes {
     font-size: 24px;
-    font-weight: 600;
 }
 
 h2,
@@ -28,4 +27,12 @@ h3 {
 #carbo strong,
 #carbo em {
     background-color:rgb(11, 221, 221);
+}
+
+.bold {
+    font-weight:700;
+}
+
+.bold#big {
+    font-size:28px;
 }
