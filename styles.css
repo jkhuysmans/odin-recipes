@@ -10,7 +10,7 @@ h1 {
     text-align:center;
 }
 
-.recipes {
+.size {
     font-size: 24px;
 }
 
@@ -20,12 +20,12 @@ h3 {
     font-family:verdana;
 }
 
-#carbo {
+#aqua {
     background-color: aquamarine;
 }
 
-#carbo strong,
-#carbo em {
+#aqua strong,
+#aqua em {
     background-color:rgb(11, 221, 221);
 }
 
