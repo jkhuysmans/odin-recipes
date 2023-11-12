@@ -25,6 +25,7 @@ h3 {
     background-color: aquamarine;
 }
 
-h3.red {
-    color:darkred;
+#carbo strong,
+#carbo em {
+    background-color:rgb(11, 221, 221);
 }
