@@ -1,0 +1,26 @@
+ 
+ * {
+    font-family:georgia;
+ }
+
+h1 {
+    color: blue;
+    font-family:arial;
+    font-size: 36px;
+    text-align:center;
+}
+
+.recipes {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h2,
+h3 {
+    color:rgb(0, 134, 134);
+    font-family:verdana;
+}
+
+#carbo {
+    background-color: aquamarine;
+}
