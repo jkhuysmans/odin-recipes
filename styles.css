@@ -24,3 +24,7 @@ h3 {
 #carbo {
     background-color: aquamarine;
 }
+
+h3.red {
+    color:darkred;
+}
