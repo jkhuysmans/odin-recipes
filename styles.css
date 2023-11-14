@@ -1,38 +1,32 @@
  
- * {
-    font-family:georgia;
+ html {
+    font-family:verdana, sans-serif;
+    box-sizing:border-box;
  }
 
-h1 {
-    color: blue;
-    font-family:arial;
-    font-size: 36px;
+ h1 {
+    background-color:rgb(65, 213, 224);
+    color:white;
+    width:500px;
+    margin: 0px auto;
     text-align:center;
-}
+    padding:8px;
+ }
 
-.size {
-    font-size: 24px;
-}
+ h2,
+ h3 {
+    margin-left:48px;
+ }
 
-h2,
-h3 {
-    color:rgb(0, 134, 134);
-    font-family:verdana;
-}
+ .index {
+    font-size:18px;
+ }
+ 
+ li p {
+    display:inline;
+ }
 
-#aqua {
-    background-color: aquamarine;
-}
-
-#aqua strong,
-#aqua em {
-    background-color:rgb(11, 221, 221);
-}
-
-.bold {
-    font-weight:700;
-}
-
-.bold#big {
-    font-size:28px;
-}
+ img {
+    display: block;
+    margin: 12px auto;
+ }

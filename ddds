@@ -1,0 +1,95 @@
+[33mcommit e8a2aae75d32ff2d8d51abb70dd67b10571dc3a7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 20:17:07 2023 +0100
+
+    Add fixes
+
+[33mcommit 6dd3c93488f7df31aa1e5d3b922c981a0f96e2ee[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 20:14:49 2023 +0100
+
+    Fixes
+
+[33mcommit 98093f469a709bff55a643c93de469985aa75af7[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 17:29:52 2023 +0100
+
+    Change class names
+
+[33mcommit 48eef2ab9a8ca67e57abade332fbd35e8746eacf[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 17:27:53 2023 +0100
+
+    Take off inline css
+
+[33mcommit fa46963216d22786a8f75fe125882f8a883eb9d1[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 17:13:10 2023 +0100
+
+    Minor additions to every pages
+
+[33mcommit fc2effa2c32b96f14c47aa584595495022dcdb36[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 17:01:30 2023 +0100
+
+    Finish chicken milanese page
+
+[33mcommit f105e8f119612f623fc6a7856b6f195433d93b93[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 16:56:13 2023 +0100
+
+    Complete onion soup page and start chicken milanese page
+
+[33mcommit bcf46bf01d88d38f20a758fd270790fe888657fc[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 16:44:00 2023 +0100
+
+    Complete carbonara page, start onion soup page
+
+[33mcommit 825e34116ea6979d41b1b342b715eea97b8e96f9[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Sun Nov 12 16:30:57 2023 +0100
+
+    Add CSS file, add general colors and fonts
+
+[33mcommit 116140dfcf71667e68c464e826843a6a71da1b9a[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 23:40:04 2023 +0100
+
+    Add description headings on recipe pages
+
+[33mcommit 1e715783087d36a9920b54e6978f7733482b64b7[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 23:33:29 2023 +0100
+
+    Add chicken milanese page, bold and italic and HTML comment
+
+[33mcommit e20f9a920b69919d194bd808cda9a1bcef3db76b[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 23:14:50 2023 +0100
+
+    Add and complete french onion soup page
+
+[33mcommit 3c1432e6c2035ed7793c9bc3c6e898972da36412[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 21:16:22 2023 +0100
+
+    Add steps to carbonara page
+
+[33mcommit 579852cc69e4068219734b3b7515eeed16d2c44b[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 21:11:14 2023 +0100
+
+    Add image and ingredient lists in carbonara.html
+
+[33mcommit 8cee8ac1194ae5971bb60347e3e2ff8b778a5d56[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 20:54:39 2023 +0100
+
+    Add index and first recipe
+
+[33mcommit 94dba5de09fc473e8664fd543662b41e5fe81ee8[m
+Author: jkhuysmans <149975556+jkhuysmans@users.noreply.github.com>
+Date:   Fri Nov 10 20:39:22 2023 +0100
+
+    Initial commit
