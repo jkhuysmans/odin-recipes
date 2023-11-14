@@ -1,32 +1,68 @@
  
  html {
-    font-family:verdana, sans-serif;
+    font-family:arial;
     box-sizing:border-box;
+    width:1000px;
+    margin:20px;
+
  }
 
  h1 {
+    padding:4px 8px 4px 8px;
+    margin-left:20px;
     background-color:rgb(65, 213, 224);
     color:white;
-    width:500px;
+    /* width:500px;
     margin: 0px auto;
-    text-align:center;
-    padding:8px;
+    text-align:center; */
+
+    border:0px solid rgb(87, 198, 250);
+    font-family:'georgia';
  }
 
  h2,
  h3 {
-    margin-left:48px;
+    margin-left:20px;
+    font-size: 1.5em;
+    color:grey;
+    font-family:'georgia';
  }
 
  .index {
     font-size:18px;
  }
  
+ li {
+    margin-bottom:20px;
+ }
+
  li p {
     display:inline;
  }
 
  img {
-    display: block;
-    margin: 12px auto;
+    /* display: block;
+    margin: 12px auto; */
+    margin-left:48px;
+    
+
  }
+
+ a {
+    color:orange;
+ }
+
+ ul,
+ ol,
+ p#summary {
+    margin-left:32px;
+    font-size:20px;
+    color:rgb(32, 32, 32);
+ }
+
+ h3 {
+    border-top:2px solid rgb(197, 197, 197);
+    padding-top:20px;
+    padding-right:-30px;
+ }
+ 
