@@ -12,10 +12,6 @@
     margin-left:20px;
     background-color:rgb(65, 213, 224);
     color:white;
-    /* width:500px;
-    margin: 0px auto;
-    text-align:center; */
-
     border:0px solid rgb(87, 198, 250);
     font-family:'georgia';
  }
@@ -41,10 +37,7 @@
  }
 
  img {
-    /* display: block;
-    margin: 12px auto; */
     margin-left:48px;
-    
 
  }
 
@@ -60,7 +53,8 @@
     color:rgb(32, 32, 32);
  }
 
- h3 {
+ h3,
+ .index li {
     border-top:2px solid rgb(197, 197, 197);
     padding-top:20px;
     padding-right:-30px;
